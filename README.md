@@ -4,7 +4,7 @@ Setup and mobile-first is the first project from the Microverse full-program and
 
 ##Web page link:
 
-https://sambeck87.github.io/setup_and_mobile_first/
+https://sambeck87.github.io/Portfolio/
 
 ## Built With
 
@@ -24,8 +24,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 - Go to this repo and copy the project link
-        https://github.com/sambeck87/setup_and_mobile_first
-- Open your terminal and clone the repo with this command "git clone https://github.com/sambeck87/Setup and mobile-first.git"
+        https://github.com/sambeck87/Portfolio
+- Open your terminal and clone the repo with this command "git clone https://github.com/sambeck87/Portfolio.git"
 - Now, you have a copy on your pc. 
 - To open it, make double-click on the HTML file.
 
